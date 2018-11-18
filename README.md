@@ -1,4 +1,6 @@
-# minigrid-optimiser
+**This is no longer maintained, active development is in [openelec](https://github.com/carderne/openelec)**
+
+## minigrid-optimiser
 [![Build Status](https://travis-ci.org/carderne/minigrid-optimiser.svg?branch=master)](https://travis-ci.org/carderne/minigrid-optimiser)
 
 A tool for optimising rural [mini-grid systems](https://energypedia.info/wiki/Mini_Grids) using OpenStreetMap building data and a minimum spanning tree approach to network optimisation. 
